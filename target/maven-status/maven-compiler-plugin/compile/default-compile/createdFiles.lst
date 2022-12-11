@@ -1,0 +1,3 @@
+com\springSecurity\configuration\Config.class
+com\springSecurity\configuration\SecurityInitializer.class
+com\springSecurity\configuration\ViewInitializer.class

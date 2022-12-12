@@ -1,3 +1,5 @@
 com\springSecurity\configuration\Config.class
-com\springSecurity\configuration\SecurityInitializer.class
 com\springSecurity\configuration\ViewInitializer.class
+com\springSecurity\package_controll\ViewController.class
+com\springSecurity\configuration\SecurityInitializer.class
+com\springSecurity\configuration\SecurityConfig.class

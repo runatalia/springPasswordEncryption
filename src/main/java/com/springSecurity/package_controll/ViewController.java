@@ -11,14 +11,14 @@ public class ViewController {
         return "view_for_all_employees";
     }
 
-    @GetMapping("/hr_info'")
+    @GetMapping("/hr_info")
     public String getInfoOnlyForHR() {
         return "view_for_hr";
     }
 
-    @GetMapping("/manager_info''")
+    @GetMapping("/manager_info")
     public String getInfoOnlyManagers() {
-        return "view_for_managers";
+        return "view_for_manager";
     }
 
 }
